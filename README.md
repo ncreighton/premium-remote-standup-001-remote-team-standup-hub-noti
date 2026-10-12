@@ -1,0 +1,2 @@
+# premium-remote-standup-001-remote-team-standup-hub-noti
+Tired of standup meetings that eat your team's best hours? Replace them with an async hub that takes 5 minutes per day and keeps everyone aligned without the video call fatigue.  This Notion template transforms your team's daily standup from a dreaded meeting into a streamlined, asynchronous update. It's the best solution for remote teams that want
